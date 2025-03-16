@@ -1,0 +1,1 @@
+One of the original prototypes for what a dragon could be from [[The First World]], who has bitten off the paw of his [[Dahak|creator-god]] and been abandoned ever since
