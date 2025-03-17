@@ -1,3 +1,3 @@
 #Faction
 
-when attacked [[Dipshit Kings. Extreme 6]]
+when attacked [[6. Extreme. Dipshit Kings.]]

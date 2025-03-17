@@ -6,7 +6,7 @@
       {
         "id": "b2236a652258a8cb",
         "type": "tabs",
-        "dimension": 40.68791946308725,
+        "dimension": 43.817689530685925,
         "children": [
           {
             "id": "2e58b34530741cf2",
@@ -14,22 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Rakshassa guy.md",
+                "file": "Lore/Object/Chewtoy Doll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rakshassa guy"
+              "title": "Chewtoy Doll"
             }
           },
           {
-            "id": "8b60cdc1d0a0302c",
+            "id": "8cae6887147de48d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -37,18 +35,16 @@
         ]
       },
       {
-        "id": "e991d69fdb2cd15c",
+        "id": "d5fba176702bfc46",
         "type": "tabs",
-        "dimension": 59.312080536912745,
+        "dimension": 56.182310469314075,
         "children": [
           {
-            "id": "7372ddcc1debd417",
+            "id": "012ba3f5f29512a2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -197,34 +193,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e58b34530741cf2",
+  "active": "012ba3f5f29512a2",
   "lastOpenFiles": [
-    "NPCs/Rakshassa guy.md",
-    "Lore/Faction/Wormwood Druids.md",
-    "Lore/Faction/the Oni.md",
-    "Lore/Faction/Linnorms.md",
-    "Lore/Faction/Kingdom of Houlum.md",
-    "Lore/Faction/Dipshit Kings.md",
-    "Location/Werewolf Mausoleum.md",
-    "Lore/Faction/Proteans.md",
+    "Players.md",
+    "Lore/Object/Chewtoy Doll.md",
+    "Lore/Object/Aiudara.md",
+    "NPCs/Rusevod.md",
+    "Encounters/20. EXTREME. Fafnheir..md",
+    "Encounters/12. INSTANT DEATH. Ouroboros..md",
+    "Encounters/12. Severe. Shadowfang Grimsnarl..md",
+    "Encounters/10. Severe. Spire of Destiny 1..md",
+    "Encounters/5. Moderate. Veloth and Bok..md",
+    "Encounters/7. Extreme Air and Space Embassy..md",
+    "Encounters/6. Extreme. Dipshit Kings..md",
+    "Encounters/5. Trivial. Jenny the Huldra 1..md",
+    "Lore/Object/People Skin Cloak.md",
     "NPCs/Shadowfang Grimsnarl.md",
-    "Encounters/Shadowfang Grimsnarl. Severe 12.md",
     "NPCs/Zoraya.md",
     "Main Plot/12. Eye of Abendego.md",
-    "Encounters/Ouroboros. DEATH 12.md",
-    "Main Plot/13. Ring Banished.md",
-    "Location/Air and Space Embassy.md",
-    "NPCs/Fafnheir.md",
-    "Encounters/Fafnheir. EXTREME 20.md",
-    "NPCs/Eva Lovelorn, the Medusa Blacksmith.md",
-    "NPCs/Raunold, the Lawyer.md",
-    "NPCs/Whisper the Severed.md",
-    "NPCs/CY, Alien AI.md",
-    "Location/Alien Spaceship.md",
-    "Encounters/Air and Space Embassy. Extreme 7.md",
-    "NPCs/Erarth, Silence between Horns.md",
-    "NPCs/Salrick Wanpedoros, Researcher.md",
+    "Main Plot/7. Wooden Everything.md",
     "Main Plot/8..md",
+    "Main Plot/20. Heist of the Millennium.md",
+    "Main Plot/21. fin. Enter the First World.md",
+    "Main Plot/15..md",
+    "Lore/Faction/the Oni.md",
+    "Main Plot/17..md",
+    "Lore/Faction/Linnorms.md",
+    "Lore/Faction/Wormwood Druids.md",
+    "Lore/Faction/Kingdom of Houlum.md",
     "Encounters",
     "Traveling",
     "Fafnheir.png",
