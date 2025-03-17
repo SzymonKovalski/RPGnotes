@@ -11,41 +11,48 @@
       "query": "path:Encounters  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Lore  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
+        "rgb": 16711680
       }
     },
     {
       "query": "path: \"Main Plot\"  ",
       "color": {
         "a": 1,
-        "rgb": 16459007
+        "rgb": 7536757
       }
     },
     {
-      "query": "path: NPCs  ",
+      "query": "path:NPCs  ",
       "color": {
         "a": 1,
-        "rgb": 4436714
+        "rgb": 4320530
+      }
+    },
+    {
+      "query": "path:Lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    },
+    {
+      "query": "path:Location  ",
+      "color": {
+        "a": 1,
+        "rgb": 61183
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.00155925155925,
+  "lineSizeMultiplier": 1.00155925155925,
+  "collapse-forces": false,
+  "centerStrength": 0.504158004158004,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5087618855792749,
+  "linkDistance": 30,
+  "scale": 0.12919567243700664,
   "close": true
 }

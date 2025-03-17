@@ -1,1 +1,2 @@
-This deity is now dead. its corpse became [[The Indifference]]
+#Deity
+This draconic god is now shattered. His shards became [[The Indifference]]

@@ -1,1 +1,3 @@
-Ruled by [[Dipshit Kings]]
+#Faction
+
+Located in [[Stolen Lands]] and ruled by [[Dipshit Kings]]
