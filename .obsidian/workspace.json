@@ -6,7 +6,6 @@
       {
         "id": "b2236a652258a8cb",
         "type": "tabs",
-        "dimension": 43.817689530685925,
         "children": [
           {
             "id": "2e58b34530741cf2",
@@ -14,37 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Object/Chewtoy Doll.md",
+                "file": "Lore/Event/Eternal Summer Problems/Eternal Summer - 8 months.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chewtoy Doll"
-            }
-          },
-          {
-            "id": "8cae6887147de48d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Eternal Summer - 8 months"
             }
           }
         ]
       },
       {
-        "id": "d5fba176702bfc46",
+        "id": "9841829ea7b0680e",
         "type": "tabs",
-        "dimension": 56.182310469314075,
         "children": [
           {
-            "id": "012ba3f5f29512a2",
+            "id": "d106fe92ca4597f6",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -193,46 +183,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "012ba3f5f29512a2",
+  "active": "d106fe92ca4597f6",
   "lastOpenFiles": [
+    "Lore/Event/Eternal Summer Problems/Eternal Summer - 8 months.md",
+    "Lore/Event/Eternal Summer Problems/Eternal Summer - 1 month.md",
+    "Lore/Event/Eternal Summer Problems/Eternal Summer - 0 days.md",
+    "Lore/Event/Eternal Summer Problems/Eternal Summer - 7 months.md",
+    "Lore/Event/Eternal Summer Problems/Eternal Summer - 4 months.md",
+    "Lore/Event/Eternal Summer Problems/Eternal Summer - 6 months.md",
+    "Lore/Event/Eternal Summer Problems/Eternal Summer - 3 months.md",
+    "Main Plot/9/The Spire of Destiny.md",
+    "NPCs/Whisper the Severed.md",
+    "Lore/Event/Blocked Gates.md",
+    "Lore/Event/Eternal Summer Problems",
+    "Main Plot/8/Captain's Escape Pod.md",
+    "Lore/Location/Aral, The Spire.md",
+    "Main Plot/8/Alien Spaceship/Alien Spaceship 1.md",
+    "Main Plot/8/Enter the Alien Spaceship.md",
     "Players.md",
-    "Lore/Object/Chewtoy Doll.md",
-    "Lore/Object/Aiudara.md",
-    "NPCs/Rusevod.md",
-    "Encounters/20. EXTREME. Fafnheir..md",
-    "Encounters/12. INSTANT DEATH. Ouroboros..md",
-    "Encounters/12. Severe. Shadowfang Grimsnarl..md",
-    "Encounters/10. Severe. Spire of Destiny 1..md",
-    "Encounters/5. Moderate. Veloth and Bok..md",
-    "Encounters/7. Extreme Air and Space Embassy..md",
-    "Encounters/6. Extreme. Dipshit Kings..md",
-    "Encounters/5. Trivial. Jenny the Huldra 1..md",
-    "Lore/Object/People Skin Cloak.md",
-    "NPCs/Shadowfang Grimsnarl.md",
-    "NPCs/Zoraya.md",
-    "Main Plot/12. Eye of Abendego.md",
-    "Main Plot/7. Wooden Everything.md",
-    "Main Plot/8..md",
-    "Main Plot/20. Heist of the Millennium.md",
-    "Main Plot/21. fin. Enter the First World.md",
-    "Main Plot/15..md",
+    "Lore/History/Prophecy of the Bleeding Sun.md",
+    "Main Plot/17/Fight Linnorms.md",
     "Lore/Faction/the Oni.md",
-    "Main Plot/17..md",
     "Lore/Faction/Linnorms.md",
-    "Lore/Faction/Wormwood Druids.md",
-    "Lore/Faction/Kingdom of Houlum.md",
-    "Encounters",
-    "Traveling",
+    "Main Plot/15/Battle the Oni.md",
+    "Main Plot/16/Negotiate with Zoraya.md",
+    "Main Plot/19",
+    "Main Plot/18",
+    "Main Plot/17",
+    "Main Plot/16",
+    "Main Plot/15",
+    "Main Plot/14",
+    "Main Plot/13",
+    "Main Plot/12",
+    "Main Plot/11",
+    "Main Plot/Untitled.md",
+    "Main Plot/7/Discover Rusevod's Secret.md",
+    "NPCs/Rusevod.md",
+    "Main Plot/7/Royal Leaflet.md",
+    "Main Plot/7/Cult Culling.md",
     "Fafnheir.png",
-    "Lore/Region",
     "Untitled.canvas",
-    "Lore/Object",
-    "Location",
-    "Lore/History",
-    "Lore/Faction",
-    "Lore/Event",
-    "Lore/Deity",
-    "Lore/Ancestry",
     "Untitled 1.canvas"
   ]
 }

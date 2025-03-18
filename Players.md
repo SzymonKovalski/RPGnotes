@@ -1,19 +1,22 @@
+Story Plan
+[[Prologue]]
 
-[[5. Druidic Favors]]
-[[6. Lycanthropic Ectoplasm]]
-[[7. Wooden Everything]]
-[[8.]]
-[[9. Alien Spaceship]]
-[[10. Spire of Destiny]]
-[[11.]]
-[[12. Eye of Abendego]]
-[[13. Ring Banished]]
-[[14.]]
-[[15.]]
-[[16.]]
-[[17.]]
-[[18.]]
-[[19.]]
-[[20. Heist of the Millennium]]
-[[21. fin. Enter the First World]]
-
+| Level        | Milestone |
+| ------------ | --------- |
+| [[Level 5]]  |           |
+| [[Level 6]]  |           |
+| [[Level 7]]  |           |
+| [[Level 8]]  |           |
+| [[Level 9]]  |           |
+| [[Level 10]] |           |
+| [[Level 11]] |           |
+| [[Level 12]] |           |
+| [[Level 13]] |           |
+| [[Level 14]] |           |
+| [[Level 15]] |           |
+| [[Level 16]] |           |
+| [[Level 17]] |           |
+| [[Level 18]] |           |
+| [[Level 19]] |           |
+| [[Level 20]] |           |
+| [[fin.]]     |           |
