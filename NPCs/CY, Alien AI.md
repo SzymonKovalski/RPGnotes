@@ -1,1 +1,0 @@
-A fractured artificial mind occupying the [[Alien Spaceship]] designed to fight [[The Indifference]]. It no longer recognizes who is friend or foe but cares for everyone in both ways so it acts in both ways, both attacking, berating and providing supplies or advice on how to defeat the security forces.

@@ -1,38 +1,31 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:NPCs  ",
-      "color": {
-        "a": 1,
-        "rgb": 2601473
-      }
-    },
-    {
-      "query": "tag:#dungeon  ",
+      "query": "tag:#TODO  ",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "tag:#Object  ",
+      "query": "tag:#plot  ",
       "color": {
         "a": 1,
-        "rgb": 16514826
+        "rgb": 13893887
       }
     },
     {
-      "query": "path:\"Main Plot\"  ",
+      "query": "tag:#npc  ",
       "color": {
         "a": 1,
-        "rgb": 15597823
+        "rgb": 6749952
       }
     }
   ],
@@ -46,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11660891579457364,
+  "scale": 0.11660891579457475,
   "close": false
 }

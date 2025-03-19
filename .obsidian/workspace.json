@@ -6,6 +6,7 @@
       {
         "id": "b2236a652258a8cb",
         "type": "tabs",
+        "dimension": 44.17870036101083,
         "children": [
           {
             "id": "2e58b34530741cf2",
@@ -13,26 +14,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Event/Eternal Summer Problems/Eternal Summer - 12 months.md",
+                "file": "Gameplay/Plot/16/Negotiate with Zoraya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eternal Summer - 12 months"
+              "title": "Negotiate with Zoraya"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "511ef5ad87e6243f",
+        "type": "tabs",
+        "dimension": 55.821299638989174,
+        "children": [
           {
-            "id": "d106fe92ca4597f6",
+            "id": "aa4af7a2bcc73fda",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,44 +185,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d106fe92ca4597f6",
+  "active": "aa4af7a2bcc73fda",
   "lastOpenFiles": [
-    "Main Plot/9/Reach Nantambu.md",
-    "Main Plot/9/The Spire of Destiny.md",
-    "Main Plot/Untitled.md",
+    "Gameplay/Plot/16/Negotiate with Zoraya.md",
+    "Gameplay/HnH/Skill Training but Good.md",
+    "Gameplay/HnH/Simple Skills.md",
+    "Gameplay/HnH/Rout and Pacify.md",
+    "Gameplay/HnH/Flexible Saves.md",
+    "Gameplay/HnH/Free Archetype+.md",
+    "Lore/NPCs/Rune, Forsaken Child.md",
+    "Lore/Event/Werewolf Genocide.md",
+    "Lore/Event/Prophecy of the Bleeding Sun.md",
+    "Lore/Event/Blocked Gates.md",
+    "Gameplay/Plot/7/Discover Rusevod's Secret.md",
+    "Gameplay/Plot/7/Royal Leaflet.md",
+    "Gameplay/Plot/7/End up in the Plane of Wood.md",
+    "Gameplay/Plot/7/Air and Space Embassy.md",
+    "Gameplay/Plot/9/The Spire of Destiny.md",
+    "Gameplay/Plot/5/Wyrmwood Druids.md",
+    "Gameplay/Plot/6/Finding the Werewolf Temple.md",
+    "Gameplay/Plot/6/Go Kill the Dipshit Kings.md",
+    "Gameplay/Plot/6/Look for more Allies.md",
+    "Gameplay/Levels/Level 5.md",
+    "Lore/Faction/Wormwood Druids.md",
+    "Lore/Faction/the Oni.md",
+    "Lore/Faction/Proteans.md",
+    "Lore/Faction/Linnorms.md",
+    "Lore/Faction/Dipshit Kings.md",
+    "Lore/Faction/Kingdom of Houlum.md",
+    "Game Systems/Untitled",
     "Main Plot/13",
     "Main Plot/12",
     "Main Plot/11",
     "Main Plot/10",
-    "Lore/Event/Blocked Gates.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 0 days.md",
-    "Players.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 12 months.md",
-    "Lore/Deity/Yig.md",
-    "NPCs/Rusevod.md",
-    "Lore/Object/Chewtoy Doll.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 1 month.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 3 months.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 5 months.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 6 months.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 7 months.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 8 months.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 9 months.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 10 months.md",
-    "Lore/Event/Eternal Summer Problems/Eternal Summer - 11 months.md",
-    "Lore/Deity/Zon-Kuthon.md",
-    "Lore/Deity/Gozreh.md",
-    "Lore/Deity/Lamashtu.md",
-    "NPCs/Zoraya.md",
-    "NPCs/Whisper the Severed.md",
     "Lore/Event/Eternal Summer Problems",
-    "Main Plot/8/Captain's Escape Pod.md",
-    "Lore/Location/Aral, The Spire.md",
     "Main Plot/19",
     "Main Plot/18",
-    "Main Plot/17",
-    "Main Plot/16",
-    "Main Plot/15",
+    "Gameplay/Plot/17",
+    "Gameplay/Plot/16",
     "Fafnheir.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
