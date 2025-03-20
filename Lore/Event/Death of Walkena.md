@@ -1,2 +1,2 @@
 #event 
-[God-King Walkena](https://pathfinderwiki.com/wiki/Walkena) is killed by [[Rune, Forsaken Child]]
+[God-King Walkena](https://pathfinderwiki.com/wiki/Walkena) is killed by [[Rune, Forsaken Child]]. This creates many [Tzitzimitl](https://2e.aonprd.com/Monsters.aspx?ID=1353) and [Darvakka](https://2e.aonprd.com/MonsterFamilies.aspx?ID=305)to ravage the region and become important later. If rune does this alone the Tzitzimitl kill everyone in Mzali. Rune believes she barely managed to escape, but the Tzitzimitl are in fact loyal to her.
