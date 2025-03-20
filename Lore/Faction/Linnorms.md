@@ -1,4 +1,4 @@
-#lore #faction
+ #faction
 A species of serpent-like wingless dragons with a strong connection to [[The First World]]
 
 roughly lvl 17

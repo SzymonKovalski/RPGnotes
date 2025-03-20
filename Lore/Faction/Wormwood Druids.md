@@ -1,1 +1,1 @@
-#lore #faction
+ #faction

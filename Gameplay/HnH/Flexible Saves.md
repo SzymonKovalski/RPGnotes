@@ -1,4 +1,4 @@
- #gameplay #HnH 
+ #HnH 
 
 Fortitude is now determined by the higher of strength or constitution.  
 

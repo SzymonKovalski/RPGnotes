@@ -1,4 +1,4 @@
- #gameplay #plot
+ #plot
 
 #TODO dungeon
 involves [[Torne, Ghost Werewolf Shaman]]

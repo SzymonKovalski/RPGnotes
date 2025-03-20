@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b2236a652258a8cb",
+        "id": "dba3214e9ee4e9fa",
         "type": "tabs",
-        "dimension": 44.17870036101083,
         "children": [
           {
-            "id": "2e58b34530741cf2",
+            "id": "d683b37d0ea08fde",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gameplay/Plot/16/Negotiate with Zoraya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Negotiate with Zoraya"
-            }
-          }
-        ]
-      },
-      {
-        "id": "511ef5ad87e6243f",
-        "type": "tabs",
-        "dimension": 55.821299638989174,
-        "children": [
-          {
-            "id": "aa4af7a2bcc73fda",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -73,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#level",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,34 +161,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4af7a2bcc73fda",
+  "active": "d683b37d0ea08fde",
   "lastOpenFiles": [
-    "Gameplay/Plot/16/Negotiate with Zoraya.md",
-    "Gameplay/HnH/Skill Training but Good.md",
-    "Gameplay/HnH/Simple Skills.md",
-    "Gameplay/HnH/Rout and Pacify.md",
-    "Gameplay/HnH/Flexible Saves.md",
-    "Gameplay/HnH/Free Archetype+.md",
-    "Lore/NPCs/Rune, Forsaken Child.md",
-    "Lore/Event/Werewolf Genocide.md",
-    "Lore/Event/Prophecy of the Bleeding Sun.md",
-    "Lore/Event/Blocked Gates.md",
-    "Gameplay/Plot/7/Discover Rusevod's Secret.md",
-    "Gameplay/Plot/7/Royal Leaflet.md",
-    "Gameplay/Plot/7/End up in the Plane of Wood.md",
-    "Gameplay/Plot/7/Air and Space Embassy.md",
-    "Gameplay/Plot/9/The Spire of Destiny.md",
-    "Gameplay/Plot/5/Wyrmwood Druids.md",
-    "Gameplay/Plot/6/Finding the Werewolf Temple.md",
-    "Gameplay/Plot/6/Go Kill the Dipshit Kings.md",
-    "Gameplay/Plot/6/Look for more Allies.md",
+    "Gameplay/Levels/Level 9.md",
+    "Gameplay/Levels/Level 8.md",
+    "Gameplay/Levels/Level 7.md",
+    "Gameplay/Levels/Level 6.md",
     "Gameplay/Levels/Level 5.md",
-    "Lore/Faction/Wormwood Druids.md",
-    "Lore/Faction/the Oni.md",
-    "Lore/Faction/Proteans.md",
-    "Lore/Faction/Linnorms.md",
-    "Lore/Faction/Dipshit Kings.md",
-    "Lore/Faction/Kingdom of Houlum.md",
+    "Lore/Event/Eternal Summer Problems/Eternal Summer - 9 months.md",
+    "Lore/Event/Death of Walkena.md",
+    "Lore/NPCs/Rune, Forsaken Child.md",
+    "Gameplay/Plot/9/Survive Mzali.md",
+    "Gameplay/Plot/9/Walkena's Tomb.md",
+    "Location/Mzali/Mzali.md",
+    "Gameplay/Plot/9/The Spire of Destiny.md",
+    "Gameplay/Plot/6/Attend the Autumnal Ceremony.md",
+    "Lore/NPCs/Rusevod.md",
+    "Location/Mzali",
+    "Gameplay/Plot/5/Dwarf Fortress.md",
+    "Gameplay/Plot/5/Finding Veloth.md",
+    "Lore/NPCs/God-King Walkena.md",
+    "Lore/NPCs/Zedzaa, Planar Researcher..md",
+    "Gameplay/Plot/7/Air and Space Embassy.md",
+    "Gameplay/Plot/7/Royal Leaflet.md",
+    "Lore/NPCs/Salrick Wanpedoros, Researcher.md",
+    "Gameplay/Plot/6/Look for more Allies.md",
+    "Gameplay/Plot/7/End up in the Plane of Wood.md",
+    "Lore/Event/Eternal Summer Problems/Eternal Summer - 0 days.md",
+    "Lore/NPCs/Zoraya.md",
+    "Lore/Deity/Yig.md",
+    "Fafnheir.png",
+    "Gameplay/Battlemaps",
     "Game Systems/Untitled",
     "Main Plot/13",
     "Main Plot/12",
@@ -221,9 +200,6 @@
     "Lore/Event/Eternal Summer Problems",
     "Main Plot/19",
     "Main Plot/18",
-    "Gameplay/Plot/17",
-    "Gameplay/Plot/16",
-    "Fafnheir.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

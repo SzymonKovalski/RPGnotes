@@ -1,1 +1,1 @@
-#lore #event 
+ #event 

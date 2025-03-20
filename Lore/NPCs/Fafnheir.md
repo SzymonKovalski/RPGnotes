@@ -1,4 +1,4 @@
- #lore #npc
+  #npc
 
 ![[Fafnheir.png]]
 One of the original prototypes for what a dragon could be from [[The First World]], who has bitten off the paw of his creator-god [[Dahak]] and been abandoned ever since. Unknown to him [[Dahak]] is shattered.

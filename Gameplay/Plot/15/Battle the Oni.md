@@ -1,1 +1,2 @@
- #gameplay #plot
+ #plot
+[[the Oni]]

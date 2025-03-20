@@ -1,2 +1,2 @@
- #gameplay #plot
+  #plot
 [[The Spire of Destiny]]

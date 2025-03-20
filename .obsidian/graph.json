@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
@@ -25,7 +25,28 @@
       "query": "tag:#npc  ",
       "color": {
         "a": 1,
-        "rgb": 6749952
+        "rgb": 34698
+      }
+    },
+    {
+      "query": "tag:#faction  ",
+      "color": {
+        "a": 1,
+        "rgb": 15725355
+      }
+    },
+    {
+      "query": "tag:#level  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#summer  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
@@ -35,10 +56,10 @@
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 1.00155925155925,
   "collapse-forces": false,
-  "centerStrength": 0.5,
+  "centerStrength": 0.504158004158004,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11660891579457475,
+  "scale": 0.06933585929309949,
   "close": false
 }

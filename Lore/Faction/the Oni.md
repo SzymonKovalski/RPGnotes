@@ -1,4 +1,4 @@
-#lore #faction
+#faction
 
 roughly lvl 15
 [Island Oni (17)](https://2e.aonprd.com/Monsters.aspx?ID=3124)

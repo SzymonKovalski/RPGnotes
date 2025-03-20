@@ -1,2 +1,2 @@
- #gameplay #plot
+ #plot
 [[End up in the Plane of Wood]]

@@ -1,2 +1,0 @@
- #gameplay #plot
-[[Royal Leaflet]]

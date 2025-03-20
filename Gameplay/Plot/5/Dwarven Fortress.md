@@ -1,2 +1,0 @@
- #gameplay #plot
-[[Defend Grove]]

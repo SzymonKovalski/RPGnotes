@@ -1,4 +1,4 @@
- #gameplay #HnH 
+ #HnH 
  Added 2 basic activities for intimidation and diplomacy. Both allowing the players to potentially make wounded enemies flee from combat.
 
 :AA: Rout (auditory, concentrate, emotion, fear, incapacitation, mental, secret)

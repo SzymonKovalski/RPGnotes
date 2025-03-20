@@ -1,2 +1,2 @@
- #lore #npc
+  #npc
 Druid quest giver belonging to [[Wormwood Druids]]

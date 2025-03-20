@@ -1,2 +1,2 @@
- #lore #deity
+  #deity
 The enigmatic god of [[Serpentfolk|Serpentfolk]], secrets and memory loss. Its worshippers tend to fade from the memory of others. Yig is an artificial god created to defend against [[The Indifference|The Indifference]], but has long since lost its strength. There is a ritual often rediscovered by the [[Serpentfolk|Serpentfolk]] to usurp Yig and take its place. When it is complete the usurper takes the place of the god, replacing their name with their own in all memory and writing, but severing its clerics. Yig is simply the name of the last [[Serpentfolk|Serpentfolk]] usurper.
