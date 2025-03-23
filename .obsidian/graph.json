@@ -43,10 +43,10 @@
       }
     },
     {
-      "query": "tag:#summer  ",
+      "query": "tag:#optional",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 3251
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.11689420552774439,
+  "scale": 0.11689420552774583,
   "close": false
 }

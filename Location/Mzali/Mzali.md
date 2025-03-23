@@ -1,1 +1,1 @@
-Complex City with sewer dungeon
+![[Mzali.png]]Players stay at [[Golden Mouse]]

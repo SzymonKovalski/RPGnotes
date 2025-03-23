@@ -1,3 +1,2 @@
-#plot
-[[Death of Walkena]] 
-[[Travel the Jungle 2]]
+#optional
+If the players choose to help Rune to kill Walkena [[Death of Walkena]] 

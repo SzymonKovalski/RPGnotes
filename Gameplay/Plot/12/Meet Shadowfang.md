@@ -1,0 +1,2 @@
+#plot
+involves [[Shadowfang Grimsnarl]]
