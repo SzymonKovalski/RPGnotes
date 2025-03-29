@@ -1,0 +1,1 @@
+Stamina represents the limits of a character’s exertion, as well as how much physical punishment he can sustain. It is staying power, both mental and physical, and one of its most important components is simply the will to live. Spellcasting relies on Stamina. Stamina also measures someone’s ability to carry a load for an extended period, ignore fatigue, and withstand wounds.

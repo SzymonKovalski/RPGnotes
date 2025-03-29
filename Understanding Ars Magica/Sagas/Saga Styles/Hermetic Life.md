@@ -1,0 +1,1 @@
+The characters spend most of their time interacting with other Hermetic magi. They might be dedicated politicians in the local Tribunal, bibliophiles trying to gather the finest library in the Order, or Hoplites dedicated to hunting down any magus who turns to diabolism.

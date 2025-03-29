@@ -1,0 +1,1 @@
+Communication represents the aptitude for self-expression. It is important when attempting to influence or communicate with someone, verbally or otherwise. A positive communication score suggests a character who is comfortable with or confident in his relationships with other people.

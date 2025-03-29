@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "3f140168dd1facae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b90040e73959de9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "503f6187f1ad290c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d48dd0b25db1760",
+    "type": "split",
+    "children": [
+      {
+        "id": "34cdb74b79e4620a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09aa40d6ae809ea7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fd064a34bc921856",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d9313a27f6131fc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b495609ace66707e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8ecf1b9a65a5a72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae59153ae7ad4347",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Character Types/Magi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Magi"
+            }
+          },
+          {
+            "id": "d3e0f8071f4564cc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Character Types/Magi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Magi"
+            }
+          },
+          {
+            "id": "5bd0c9989e0932b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a3bf9985d7a1cae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Character Types/Magi.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Magi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "503f6187f1ad290c",
+  "lastOpenFiles": [
+    "Characters/Character Types/Magi.md",
+    "Characters/Character Types/Grogs.md",
+    "Characters/Character Types/Companions.md",
+    "Characters/Characters.md",
+    "Characters/Confidence.md",
+    "Characters/Reputations.md",
+    "Characters/Personality Traits.md",
+    "Characters/Abilities.md",
+    "Characters/Characteristics/Characteristics.md",
+    "Characters/Characteristics/Quickness (Qik).md",
+    "Characters/Characteristics/Intelligence (Int).md",
+    "Characters/Characteristics/Dexterity (Dex).md",
+    "Characters/Characteristics/Communication (Com).md",
+    "Characters/Characteristics/Presence (Prs).md",
+    "Characters/Characteristics/Stamina (Sta).md",
+    "Characters/Characteristics/Perception (Per).md",
+    "Characters/Virtues and Flaws/Virtues and Flaws.md",
+    "Characters/Characteristics/Strength (Str).md",
+    "Characters/Characteristics",
+    "Characters/Virtues and Flaws",
+    "Characters/Size/Size.md",
+    "Characters/Size",
+    "Characters/Character Types",
+    "Characters",
+    "Sagas/Sagas.md",
+    "Sagas/Background Questions/History.md",
+    "Sagas/Saga Styles/Creation.md",
+    "Sagas/Saga Styles/Politics Saga.md",
+    "Sagas/Saga Styles/Mundane Interactions.md",
+    "Sagas/Saga Styles/Investigation.md",
+    "Sagas/Saga Styles/Action Adventure.md",
+    "Sagas/Saga Styles",
+    "Sagas/Saga Types",
+    "Sagas/Troupe Style Roleplaying",
+    "Sagas/Saga Speed",
+    "Sagas/Background Questions",
+    "Untitled.canvas"
+  ]
+}

@@ -1,3 +1,0 @@
- #HnH
- As normal free archetype, except every character is treated as having the archetype of their own class. This does not increase their number of skills and overlapping features do not add together. For classes where the archetype comes with a subclass (barbarian, sorcerer, thaumaturge) the subclass of the archetype is the same as the main class.
-The basic X and advanced X feats (the ones about gaining a lvl 1-2 feat and feat up to half your level from the parent class) have their level requirements reduced from 4 and 6 to 2 and 4 respectively.

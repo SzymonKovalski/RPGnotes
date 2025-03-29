@@ -1,0 +1,1 @@
+The characters spend a lot of time dealing with local nobles, churchmen, bandits, and traders. They might worry about whether the covenant has enough cattle to provide the vellum for its library, or be concerned with the trend towards violent antisemitism sweeping the country. Magic might be used a lot, but it tends to be low-key and subtle, even if it is powerful

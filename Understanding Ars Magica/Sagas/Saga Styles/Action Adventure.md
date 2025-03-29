@@ -1,0 +1,1 @@
+The characters fight and defeat enemies, whether by force of arms or force of magic. They may or may not loot the bodies afterwards.

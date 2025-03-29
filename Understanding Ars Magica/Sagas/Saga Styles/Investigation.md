@@ -1,0 +1,1 @@
+The characters unravel mysteries, discover murderers, and trace the resting place of lost treasures

@@ -1,0 +1,1 @@
+Strength measures physical power: lifting, pushing, shoving, heaving and moving. Strength is important when hefting a melee weapon and when using brute, physical force against something or someone. People with high Strength are often bigger than those with low Strength, assuming they have the same Size.

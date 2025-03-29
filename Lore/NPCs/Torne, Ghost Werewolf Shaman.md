@@ -1,2 +1,0 @@
-  #npc
-female ghost of a victim of the [[Werewolf Genocide]]. Begins overtly hostile and needs to be reasoned and negotiated with. She wants revenge on those who have murdered her clan, but they're long dead so those who want to make a living in the region will do.

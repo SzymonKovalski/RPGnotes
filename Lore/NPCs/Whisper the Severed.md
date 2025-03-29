@@ -1,2 +1,0 @@
-  #npc
-A nonbinary (they/them) [[Serpentfolk|Serpentfolk]] Cleric who happened to have entered the Avatar spell at the time when the previous [[Yig|Yig]]. They are alone and devoid of purpose, leading a solitary life in the company of their beloved dog. On top of being under the effects of a constant Avatar Spell they are also effected by a 4th rank Invisibility and 4th rank Silence

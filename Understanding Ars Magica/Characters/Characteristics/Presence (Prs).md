@@ -1,0 +1,1 @@
+Presence describes a character’s appearance, demeanor and charisma. It is important for making a good impression, as well as for leading people. Presence also measures how imposing or intimidating a person is. Even if not physically attractive, a person with high Presence might still have a demeanor that commands respect.
